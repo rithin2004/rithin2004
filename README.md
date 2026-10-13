@@ -38,3 +38,4 @@ Item catalogue, guest quote requests with owner alerts, and an admin panel. Next
 - Email: sairithinkumar@gmail.com
 - Phone / WhatsApp: +91 77778 77967
 - LinkedIn: https://www.linkedin.com/in/somisettysairithin
+- Resume: [SSaiRithin-Resume.pdf](SSaiRithin-Resume.pdf)
